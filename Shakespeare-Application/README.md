@@ -6,4 +6,4 @@ Created a shiny application that investigated word counts throughout Shakespeare
 2. Open the R project
 3. Run the application
 
-Open the app up here: {here}(https://soberer.shinyapps.io/problem-set-3-oberer/)
+Open the app up here: [here](https://soberer.shinyapps.io/problem-set-3-oberer/)
