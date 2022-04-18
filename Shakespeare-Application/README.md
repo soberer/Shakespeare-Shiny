@@ -1,5 +1,5 @@
 # Sharepeare-Shiny
-Created a shiy applicaiton that investigated word counts throghout Shakespeare Plays.
+Created a shiny application that investigated word counts throughout Shakespeare Plays.
 
 ## How to re-create the application
 1. Download the Shakespeare folder
