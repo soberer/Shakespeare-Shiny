@@ -1,0 +1,6 @@
+  v <- freq()
+  
+  v %>%
+    filter(n > input$minimum_wordcount) %>%
+    ggplot(v, mapping = aes(x = reorder(v, v), y = n)) + 
+    geom_bar(stat="identity")
